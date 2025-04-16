@@ -2,7 +2,7 @@
   "profiles": {
     "UnitConverter": {
       "commandName": "Project",
-      "commandLineArgs": "--from kilometer --to megabyte --value 1"
+      "commandLineArgs": "--from kilometer --to inch --value 10"
     }
   }
 }
